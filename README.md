@@ -1,6 +1,5 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fan2z%2Fhit-counter&count_bg=%23D2E0FB&title_bg=%23001524&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<a href="https://jollyn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-948979?style=flat-square&logo=Blogger&logoColor=white"/></a>
-<a href="mailto:b.imnuj@gmail.com"><img src="https://img.shields.io/badge/MAIL-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.imnuj@gmail.com"/></a>
+<a href="https://jollyn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EEEEEE?style=flat-square&logo=qodo&logoColor=black"/></a>
+<a href="mailto:b.imnuj@gmail.com"><img src="https://img.shields.io/badge/MAIL-263238?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.imnuj@gmail.com"/></a>
 
 <!--
  ### 💻 Tech Stacks 💻
