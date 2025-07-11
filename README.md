@@ -1,5 +1,6 @@
 <a href="https://jollyn.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-EEEEEE?style=flat-square&logo=qodo&logoColor=black"/></a>
 <a href="mailto:b.imnuj@gmail.com"><img src="https://img.shields.io/badge/MAIL-263238?style=flat-square&logo=Gmail&logoColor=white&link=mailto:b.imnuj@gmail.com"/></a>
+<!-- logo=kitsu,ollama,linux -->
 
 <!--
  ### 💻 Tech Stacks 💻
